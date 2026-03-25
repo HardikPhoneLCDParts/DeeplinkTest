@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.phone.lcdparts",
+    "sha256_cert_fingerprints":
+    ["87:90:6C:75:83:6C:77:B4:30:3B:7C:BD:49:7F:58:B8:44:6E:41:BC:48:CC:99:9E:41:D5:70:DF:EF:88:8D:BB"]
+  }
+}]
